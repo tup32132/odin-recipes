@@ -1,0 +1,19 @@
+/*style.css*/
+
+.body {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+.title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 80px;
+    background-color: rgb(00, 00, blue, .3);
+    color: white;
+    height: 220px;
+    width: 100px;
+}
+
+.contents {
+    font-weight: 200;
+    font-size: 35px;
+
+}
